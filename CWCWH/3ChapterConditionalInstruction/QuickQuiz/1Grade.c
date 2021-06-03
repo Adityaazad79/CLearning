@@ -1,4 +1,4 @@
-// Write a program to find grade
+// Write a program to find grade...
 
 #include <stdio.h>
 

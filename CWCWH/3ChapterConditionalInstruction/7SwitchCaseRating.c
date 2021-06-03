@@ -1,3 +1,6 @@
+// Using Switch case... 
+// Note - Have a look over default statement as well.
+
 #include <stdio.h>
 
 int main()

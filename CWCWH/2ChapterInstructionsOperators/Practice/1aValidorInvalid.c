@@ -1,3 +1,5 @@
+// // Which of the following is invalid in c..? - Invalid
+
 // #include <stdio.h>
 
 // int main()
@@ -7,5 +9,3 @@
 
 //     return 0;
 // }
-
-// // Invalid

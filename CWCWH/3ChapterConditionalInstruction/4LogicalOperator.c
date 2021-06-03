@@ -1,3 +1,5 @@
+// Using logical operator
+
 #include <stdio.h>
 
 int main()

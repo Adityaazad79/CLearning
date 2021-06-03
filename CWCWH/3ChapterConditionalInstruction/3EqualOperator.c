@@ -1,3 +1,5 @@
+// Use of equal operator
+
 #include <stdio.h>
 
 int main()

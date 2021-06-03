@@ -1,3 +1,5 @@
+// Using ternery Operator
+
 #include <stdio.h>
 
 int main()

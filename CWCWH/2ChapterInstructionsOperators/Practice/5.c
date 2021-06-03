@@ -1,5 +1,5 @@
-/* 3.0+1 will be a.Integer b.FloatingPointNumber c.Character
-b.FloatingPointNumber */
+/* 3.0+1 will be..? a.Integer b.FloatingPointNumber c.Character
+Ans - b.FloatingPointNumber */
 
 #include <stdio.h>
 

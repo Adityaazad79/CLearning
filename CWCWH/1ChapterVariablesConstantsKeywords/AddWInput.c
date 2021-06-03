@@ -1,4 +1,4 @@
-// Addition Program with Input
+// Addition Program where input is made by user
 
 #include <stdio.h>
 

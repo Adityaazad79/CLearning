@@ -1,3 +1,5 @@
+// Write a program to check whether a number is divisible  97 or not.
+
 #include <stdio.h>
 
 int main()

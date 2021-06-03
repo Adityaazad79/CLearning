@@ -1,3 +1,5 @@
+// Using If Else If... if-else if-else ladder.
+
 #include <stdio.h>
 
 int main()

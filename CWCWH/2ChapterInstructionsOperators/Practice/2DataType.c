@@ -1,3 +1,5 @@
+// What data type will 3.0/8 – 2 return? Ans -  Data type = "Double" or "Float"
+
 #include <stdio.h>
 
 int main()
@@ -6,5 +8,3 @@ int main()
 
     return 0;
 }
-
-// Data type = "Double" or "Float"

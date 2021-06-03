@@ -1,4 +1,5 @@
-// Unexpected Result
+// Write a program to determine whether a character entered by the user is lowercase or not.
+// 97 - 122: a - z :: 65 - 90 : A -Z ; ASCII Values
 
 #include <stdio.h>
 

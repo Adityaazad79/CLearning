@@ -1,4 +1,4 @@
-// Find Simple Interest
+// Write a program to calculate simple interest for a set of values representing principle, no of years, and rate of interest.
 
 #include <stdio.h>
 

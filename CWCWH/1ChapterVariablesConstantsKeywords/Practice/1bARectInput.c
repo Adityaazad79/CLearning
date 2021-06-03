@@ -1,4 +1,4 @@
-// Area of a rectange using length and breadth user input
+// Write a c program to calculate the area of a rectangle: b) using inputs supplied by the user
 
 #include <stdio.h>
 

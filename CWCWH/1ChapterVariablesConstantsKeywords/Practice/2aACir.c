@@ -1,4 +1,5 @@
-// Area of a circle using radius user input
+// Area of a circle using radius user input.
+// Calculate the area of a circle and modify the same program to calculate the volume of a cylinder given its radius and height.
 
 #include <stdio.h>
 
