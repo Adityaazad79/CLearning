@@ -6,9 +6,9 @@ int main()
 {
     int i = 10;
     printf("The multiplication table of 10:\n\n");
-    while (i >= 1 && i<=10)
+    while (i > 0)
     {
-        printf("%d * %d = %d\n", 10, i, 10 * i);
+        printf("10 * %d = %d\n", i, 10 * i);
         i--;
     }
 

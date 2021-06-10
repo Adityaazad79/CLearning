@@ -6,9 +6,9 @@
 int main()
 {
     int a = 0, n = 0;
-    while (n <= 10)
+    while (n < 11)
     {
-        a = a + 8 * n;
+        a += 8 * n;
         n++;
     }
 

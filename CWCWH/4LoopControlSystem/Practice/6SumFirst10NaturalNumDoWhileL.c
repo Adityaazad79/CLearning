@@ -8,9 +8,9 @@ int main()
     int a = 0, n = 1;
     do
     {
-        a = a + n;
+        a += n;
         n++;
-    } while (n <= 10);
+    } while (n < 11);
 
     printf("%d\n", a);
 

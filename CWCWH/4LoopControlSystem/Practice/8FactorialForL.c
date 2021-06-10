@@ -8,10 +8,11 @@ int main()
     i = b = 1;
     printf("Enter the number to find factorial for \n");
     scanf("%d", &a);
+    printf("\n");
     
     for (b; b <= a; b++)
     {
-        i = i * b;
+        i *= b;
     }
     printf("The Factorial of %d is %d\n", a, i);
 

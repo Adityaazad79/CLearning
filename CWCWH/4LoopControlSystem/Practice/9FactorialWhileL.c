@@ -9,9 +9,11 @@ int main()
     i = b = 1;
     printf("Enter the number to find factorial for \n");
     scanf("%d", &a);
-    while( b <= a)
+    printf("\n");
+    
+    while (b <= a)
     {
-        i = i * b;
+        i *= b;
         b++;
     }
     printf("The Factorial of %d is %d\n", a, i);

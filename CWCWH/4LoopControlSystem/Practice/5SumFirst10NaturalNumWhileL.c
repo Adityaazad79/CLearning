@@ -5,9 +5,9 @@
 int main()
 {
     int a = 0, n = 1;
-    while (n <= 10)
+    while (n < 11)
     {
-        a = a + n;
+        a += n;
         n++;
     }
 
