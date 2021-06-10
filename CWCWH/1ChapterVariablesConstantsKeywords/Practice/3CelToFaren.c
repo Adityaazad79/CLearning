@@ -9,6 +9,6 @@ int main()
     scanf("%f", &a);
     printf("%f", a);
     printf(" degree celcius is equivalent to %f degree fahrenheit \n", 9 * a / 5 + 32);
-    
+
     return 0;
 }

@@ -1,4 +1,5 @@
 // Using If Else If... if-else if-else ladder.
+// Check the number
 
 #include <stdio.h>
 

@@ -11,7 +11,7 @@ int main()
     scanf("%d", &t);
     printf("Enter the rate of interest \n");
     scanf("%d", &r);
-    printf(" The interest of the amount %d in %d year(s) at an interest of %d percent per annum is %d \n", p, t, r, p*t*r/100);
-    
+    printf(" The interest of the amount %d in %d year(s) at an interest of %d percent per annum is %d \n", p, t, r, p * t * r / 100);
+
     return 0;
 }

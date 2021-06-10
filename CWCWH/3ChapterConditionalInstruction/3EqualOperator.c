@@ -17,7 +17,7 @@ int main()
         printf("Your age is %d, so you can drive \n", a);
     }
 
-    if (a==60)
+    if (a == 60)
     // If (a=60)
     {
         printf("Age is 60\n");

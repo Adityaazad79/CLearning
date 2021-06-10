@@ -1,4 +1,4 @@
-// Write a c program to calculate the area of a rectangle: a) using hardcoded inputs 
+// Write a c program to calculate the area of a rectangle: a) using hardcoded inputs
 
 #include <stdio.h>
 

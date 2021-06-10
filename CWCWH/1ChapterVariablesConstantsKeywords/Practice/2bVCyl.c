@@ -12,7 +12,7 @@ int main()
     float h;
     printf("What is the height of the cylinder? \n");
     scanf("%f", &h);
-    printf("The volume of the cylinder is %f", 22 * r * r *h / 7);
+    printf("The volume of the cylinder is %f", 22 * r * r * h / 7);
 
     return 0;
 }

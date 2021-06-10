@@ -1,7 +1,6 @@
 /* Calculate income tax paid by an employee to the government as per the slabs mentioned.
 Upto 2.5 lac - Nill ; 2.5-5 lac - 5% ; 5-10 lac - 20% ; Above 10 lac - 30 % */
 
-
 #include <stdio.h>
 
 int main()
