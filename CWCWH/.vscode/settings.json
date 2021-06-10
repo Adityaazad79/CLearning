@@ -1,6 +1,11 @@
 {
     "files.associations": {
+        "*.c": "c",
         "1.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "hash_map": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c"
     }
 }

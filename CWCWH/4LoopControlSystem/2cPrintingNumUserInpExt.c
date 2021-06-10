@@ -1,4 +1,4 @@
-// Printing number - Increasing order... While Loop - User Input
+// Printing number - Increasing order only + Inavlid Input Enabled... While Loop - User Input
 
 #include <stdio.h>
 

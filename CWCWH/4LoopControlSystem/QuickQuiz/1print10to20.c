@@ -1,3 +1,5 @@
+// Write a program to print natural numbers from 10 to 20 when the initial loop counter i is initialized to 0.
+
 #include <stdio.h>
 
 int main()
