@@ -1,3 +1,6 @@
+/* Write a program to decrypt the string encrypted using the encrypt function in problem 6. */
+/* Q6. Write a program to encrypt a string by adding 1 to the ASCII value of its characters. */
+
 #include <stdio.h>
 
 void encrypt(char *str);

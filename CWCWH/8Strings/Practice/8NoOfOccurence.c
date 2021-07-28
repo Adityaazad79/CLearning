@@ -1,3 +1,5 @@
+/* Write a program to count the occurrence of a given character in a string. */
+
 #include <stdio.h>
 
 int occurence(char *str, char f);
@@ -8,10 +10,10 @@ int main()
     int n;
     printf("Enter the message\n");
     scanf("%[^\n]%*c", str);
-    printf("Enter the letter to find the no of occurence\n");
+    printf("Enter the character to find the no of occurence for\n");
     scanf("%c", &f);
     n = occurence(str, f);
-    printf("%d", n);
+    printf("The chracter '%c' has been been found %d times\n", f, n);
 
     return 0;
 }
