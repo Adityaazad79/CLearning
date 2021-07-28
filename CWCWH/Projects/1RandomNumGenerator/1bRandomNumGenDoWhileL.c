@@ -13,15 +13,14 @@ Hints:
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 int main()
 {
     int n, d, t = 1; //n = Random Number ; d = User Entered Number ; t = No of chance(s) taken to to guess the number.
     srand(time(0));
-    n = rand() % 100;
+    n = rand() % 100 + 1;
     // printf("%d\n", n);
 
-    printf("Emter the number\n");
+    printf("Enter the number\n");
     do
     {
         scanf("%d", &d);

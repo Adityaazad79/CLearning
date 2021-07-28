@@ -6,21 +6,22 @@ When the user guesses the correct number, the program displays the number of gue
 Hints:
 * Use loops
 * Use a random number generator. */
-// Here I'm genetating number from 1 to 100.
+
+// Here I'm generating number from 1 to 100.
+// Using 'DoWhile' loop.
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 int main()
 {
     int n, d, t = 1; //n = Random Number ; d = User Entered Number ; t = No of chance(s) taken to to guess the number.
     srand(time(0));
-    n = rand() % 100;
-    printf("%d\n", n);
+    n = rand() % 100 + 1;
+    // printf("%d\n", n);
 
-    printf("Emter the number\n");
-    while (n != d)
+    printf("Enter the number\n");
+    do
     {
         scanf("%d", &d);
         if (n < d)
@@ -31,13 +32,13 @@ int main()
         {
             printf("Higher number please\n");
         }
-        else if (t==1)
+        else if (t == 1)
             printf("You gussed the right number in 1 attempt.\n");
         else
             printf("You gussed the right number in %d attempts.\n", t);
         t++;
 
-    } 
+    } while (n != d);
 
     return 0;
 }

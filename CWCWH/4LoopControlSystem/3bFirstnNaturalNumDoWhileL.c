@@ -1,4 +1,4 @@
-// Write a program to print natural numbers from 10 to 20 when the initial loop counter i is initialized to 0.
+// Write a program to print natural number from 1 to n. n = User Input
 
 #include <stdio.h>
 
