@@ -1,0 +1,2 @@
+The number is 456
+Thanks for using fprintf

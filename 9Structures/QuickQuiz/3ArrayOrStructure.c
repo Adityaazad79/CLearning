@@ -1,0 +1,1 @@
+// We will use array to store 20 integers, as they are of similar data type.
